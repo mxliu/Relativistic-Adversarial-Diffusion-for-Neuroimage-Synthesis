@@ -104,5 +104,13 @@ If you use this code or our paper in your research, please cite:
 
 This project is licensed under the Apache-2.0 License. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
 
-```
+---
+
+
+## Contact
+If you have any problems with our code or have some suggestions, please feel free to contact us: 
+
+- Minhui Yu (minhui.yu@unc.edu)
+- Yongheng Sun (yongheng@email.unc.edu)
+- Mingxia Liu (mingxia_liu@med.unc.edu)
 
