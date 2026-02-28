@@ -88,7 +88,7 @@ Download the weights for different tracers and place them in the `checkpoints/` 
 
 ## ✍️ Citation
 
-If you use this code or our paper in your research, please cite:
+If you use this code in your research, please cite:
 
 ```bibtex
 @article{yu2026reladiffusion,
